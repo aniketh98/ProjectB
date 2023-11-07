@@ -1,5 +1,5 @@
 Authors of this project:
-Sai Aiketh REnukuntla & Ahad Siddqui
+Sai Aniketh REnukuntla & Ahad Siddqui
 
 -------------------------------------------
 This project works all the steps assigned in the assignment.
